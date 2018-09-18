@@ -16,4 +16,4 @@ The coding language used in this paper is Python. To read the netcdf Seaglider d
 
 Along track tracers of temperature and salinity reveal that the objective mapping technique is successfully able to capture the along-track submesoscale variability.
 
-![Semi-variogram](https://github.com/marcelduplessis/Inter-annual-glider-paper/blob/master/sensativity_tests/Sens_temp_section_S1.pdf)
+![Semi-variogram](https://github.com/marcelduplessis/Inter-annual-glider-paper/blob/master/sensativity_tests/Sens_temp_section_S1.png)
